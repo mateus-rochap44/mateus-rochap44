@@ -8,4 +8,4 @@
 
 Meu perfil pessoal no WakaTime 👉 <a href="https://wakatime.com/@mateus_rochap44" style="font-family: roboto;"> WakaTime</a>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@mateus_rochap44/9c27772e-8be2-4575-b2cd-d6e410b0dfba.png" /></a>
+[![Mateus Rocha Pinto's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mateus_rochap44&layout=compact)](https://github.com/mateus-rochap44/github-readme-stats
