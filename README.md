@@ -2,7 +2,7 @@
 
 - 👨🏼‍💻 Atualmente atuo como analista de 🛡️ desenvolvimento e ⚔️ testes de sistemas de informação.
 - 🎓 Sou formado em Gestão de T.I pela FATEC Itú.
-- 📚 Atualmente estou estudando 🧙‍♂️ administração de sistemas (SysAdmin) e ⚙️ operações de desenvolvimento (DevOps) juntamente com 🔐 segurança de 🌐 rede no VPS, no Docker e no Kubernetes.
+- 📚 Atualmente estou estudando 👨🏼‍💼⛃ administração de banco de dados, 👨🏼‍💼🖥️💡 administração de sistemas (SysAdmin) e 👨🏼‍💻💡 operações de desenvolvimento (DevOps) juntamente com 🔐🪪 segurança de 🌐 rede no VPS, no Docker e no Kubernetes.
 - 📧 E-Mail para contato: mateus-rochap44@outlook.com
 - 🕧 Meu total de tempo e 📊 métricas no meu perfil pessoal 👉🏻 <a style="padding-right: 10%;" href="https://wakatime.com/mateus_rochap44"><img src="https://img.shields.io/badge/WakaTime-000000.svg?style=for-the-badge&logo=WakaTime&logoColor=white"/></a>
 
