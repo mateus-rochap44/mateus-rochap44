@@ -1,6 +1,6 @@
 ## 👋🏻 Meu nome é Mateus Rocha Pinto.
 
-- 👨🏼‍💻 Atualmente atuo como analista de </> desenvolvimento e 🕵🏻‍♂️ testes de sistemas de informação.
+- 👨🏼‍💻 Sou analista de </> desenvolvimento e 🕵🏻‍♂️ testes de sistemas de informação.
 - 🎓 Sou formado em Gestão de T.I pela FATEC Itú.
 - 📚 Atualmente estou estudando 👨🏼‍💼⛃ administração de banco de dados, 👨🏼‍💼🖥️💡 administração de sistemas (SysAdmin) e 👨🏼‍💻💡 operações de desenvolvimento (DevOps) juntamente com 🔐🪪 segurança de 🌐 rede no VPS, no Docker e no Kubernetes.
 - 📧 E-Mail para contato: mateus-rochap44@outlook.com
